@@ -45,8 +45,8 @@ Ce projet met en avant des compétences essentielles en data engineering et en d
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone <url-du-dépôt>
-   cd <nom-du-dossier>
+   git clone https://github.com/elmoutaquiHicham/project-fastapi/tree/main
+   cd project-fastapi
 
 
 ![image](https://github.com/user-attachments/assets/54644edf-5697-4bf4-a3b5-27e306479cee)
