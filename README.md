@@ -1,4 +1,5 @@
-# Développement d'une API avec FastAPI
+# Développement d'une API avec FastAPI et mise en place de sa documentation (swagger)
+
 
 Ce projet innovant vise à développer une API puissante et évolutive en utilisant le framework FastAPI, reconnu pour sa performance et sa simplicité.
 
