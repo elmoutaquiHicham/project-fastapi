@@ -81,5 +81,12 @@ Un autre style de documentation est mis en place :
 
 
 
+Tester mon API avec POSTMAN : 
+
+Une requete Post :
+![image](https://github.com/user-attachments/assets/dc622e38-4a8a-40b2-b10f-c3fbb4401dfe)
+
+Une requete GET : 
+![image](https://github.com/user-attachments/assets/82ae6ace-e13e-4fcf-9d71-881ac81ab7ea)
 
 
