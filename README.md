@@ -25,7 +25,6 @@ Ce projet innovant vise à développer une API puissante et évolutive en utilis
 - **Data Engineering** : Gestion efficace des données depuis leur création et récupération avec POSTMAN jusqu'à leur stockage dans PostgreSQL.
 - **Développement Backend** : Création d’une API robuste avec FastAPI, incluant la gestion des routes, la validation des données et l'intégration de la documentation Swagger.
 - **Gestion de Base de Données** : Compétences en SQL et PostgreSQL pour la conception, la gestion et l'interrogation des bases de données relationnelles.
-- **DevOps** : Déploiement et gestion de l'application sur Heroku, garantissant une intégration et une livraison continues.
 
 ## Objectifs du Projet
 
