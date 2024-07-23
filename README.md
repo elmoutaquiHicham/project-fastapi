@@ -1,5 +1,7 @@
-Ce projet innovant vise à développer une API puissante et évolutive en utilisant le framework FastAPI, reconnu pour sa performance et sa simplicité. Voici les aspects clés et les compétences techniques mises en avant dans ce projet :
+Développement d'une API avec FastAPI
+Ce projet innovant vise à développer une API puissante et évolutive en utilisant le framework FastAPI, reconnu pour sa performance et sa simplicité.
 
+Fonctionnalités du Projet
 Développement de l'API avec FastAPI
 Framework FastAPI : Utilisation de FastAPI pour créer une API rapide, performante et bien structurée.
 Swagger UI : Intégration de Swagger pour fournir une documentation interactive et une interface utilisateur intuitive permettant d'explorer et de tester les endpoints de l'API.
@@ -17,7 +19,11 @@ Data Engineering : Gestion efficace des données depuis leur création et récup
 Développement Backend : Création d’une API robuste avec FastAPI, incluant la gestion des routes, la validation des données et l'intégration de la documentation Swagger.
 Gestion de Base de Données : Compétences en SQL et PostgreSQL pour la conception, la gestion et l'interrogation des bases de données relationnelles.
 DevOps : Déploiement et gestion de l'application sur Heroku, garantissant une intégration et une livraison continues.
-
+Objectifs du Projet
+Fiabilité : Assurer que l’API soit fiable, bien documentée et facile à utiliser.
+Scalabilité : Préparer l’API à gérer une augmentation du volume de données et des utilisateurs.
+Accessibilité : Rendre l’API accessible en ligne via Heroku, permettant une utilisation et une démonstration aisées.
+Ce projet met en avant des compétences essentielles en data engineering et en développement backend, tout en offrant une solution API moderne, scalable et bien documentée.
 
 Ci-joint des captures d'écran de l'application concu : 
 
