@@ -43,6 +43,7 @@ Ce projet met en avant des compétences essentielles en data engineering et en d
    ```bash
    git clone https://github.com/elmoutaquiHicham/project-fastapi/tree/main
    cd project-fastapi
+   uvicorn main:app --relaod
 
 
 
