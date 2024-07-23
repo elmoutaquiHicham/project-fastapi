@@ -19,10 +19,6 @@ Ce projet innovant vise à développer une API puissante et évolutive en utilis
 - **PostgreSQL** : Connexion de l'API à une base de données relationnelle PostgreSQL pour un stockage persistant et sécurisé des données.
 - **Requêtes CRUD** : Mise en œuvre des opérations CRUD (Create, Read, Update, Delete) pour manipuler les données de manière efficace et sécurisée.
 
-### Déploiement et Scalabilité
-
-- **Déploiement sur Heroku** : Utilisation de Heroku pour déployer l'application API, bénéficiant ainsi d'un hébergement fiable avec une offre gratuite pour les phases initiales du projet.
-- **Scalabilité** : Préparation de l'application pour une montée en charge facile, assurant sa capacité à évoluer en fonction des besoins croissants.
 
 ## Compétences Techniques Mises en Valeur
 
